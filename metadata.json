@@ -1,0 +1,7 @@
+{
+  "name": "HelaOne Kenya - Unified Mobile Banking Hub",
+  "description": "All-in-one mobile banking aggregator for Kenya uniting M-PESA, Airtel Money, Equity, KCB, Co-op Bank, NCBA Loop, and SACCOs with instant multi-account transfers, bill payments, and smart analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
